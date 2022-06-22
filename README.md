@@ -16,3 +16,6 @@ add DISPLAY in ~/.bashrc
 ```
 export DISPLAY=[windows IPv4 address]:0.0
 ```
+```
+xeyes
+```
