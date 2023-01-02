@@ -17,7 +17,7 @@ https://sourceforge.net/projects/vcxsrv/
 ![setting_3](https://github.com/sugikazu75/wsl_setup/blob/images/Display_settings_3.png)  
 add DISPLAY in ~/.bashrc  
 ```
-export DISPLAY=[windows IPv4 address]:0.0
+export DISPLAY=$(cat /etc/resolv.conf | grep nameserver | awk '{print $2}'):0
 ```
 ## test
 ```
