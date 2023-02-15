@@ -23,3 +23,6 @@ export DISPLAY=$(cat /etc/resolv.conf | grep nameserver | awk '{print $2}'):0
 ```
 xeyes
 ```
+
+# Windows Terminal
+https://kabukawa.hatenablog.jp/entry/2020/12/05/004958
