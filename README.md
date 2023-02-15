@@ -25,5 +25,5 @@ xeyes
 ```
 
 # Windows Terminal
-https://kabukawa.hatenablog.jp/entry/2020/12/05/004958
+https://kabukawa.hatenablog.jp/entry/2020/12/05/004958  
 https://mseeeen.msen.jp/exit-linux-on-windows-terminal/
